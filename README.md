@@ -17,13 +17,13 @@ pip install -r requrements.txt
 You can run the program using:
 
 ```shell
-    python -m remitly
+python -m remitly
 ```
 
 And run unit tests using:
 
 ```shell
-    python -m pytest
+python -m pytest
 ```
 
 ## License
