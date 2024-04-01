@@ -14,8 +14,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-You can run the program using (path - path to the JSON file you want to check):
-
+You can run the program using:
+(path - path to the JSON file you want to check)
 ```shell
 python -m remitly path
 ```
