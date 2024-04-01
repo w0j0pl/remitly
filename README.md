@@ -9,7 +9,7 @@ It verifies the input JSON data which is defined as AWS::IAM::Role Policy and re
 Install the package dependencies with:
 
 ```shell
-pip install -r requrements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
