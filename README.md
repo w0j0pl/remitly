@@ -15,9 +15,8 @@ pip install -r requirements.txt
 ## Usage
 
 You can run the program using:
-(path - path to the JSON file you want to check)
 ```shell
-python -m remitly path
+python -m remitly <JSON path>
 ```
 
 And run unit tests using:
